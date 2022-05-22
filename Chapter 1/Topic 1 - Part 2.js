@@ -1,1 +1,1 @@
-echo "hello world 2 123"
+echo "hello world 000"
